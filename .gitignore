@@ -1,0 +1,10 @@
+# Generated PKI material — never commit keys, CSRs, issued certs or CRLs.
+# Clone the repo and generate everything locally (see README.md).
+mini-ca/private/
+mini-ca/certs/
+mini-ca/csr/
+mini-ca/crl/
+mini-ca/newcerts/
+mini-ca/index.txt*
+mini-ca/serial*
+mini-ca/crlnumber*
